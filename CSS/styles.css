@@ -3,17 +3,17 @@ body
     background-color: #555;
 }
 
-/*
-.css-selector-demo
-{
-    margin: 300px;
-    padding: 20px;
 
-}
-*/
-.el
+.dom-node-demo
 {
     margin-top: 200px;
+
+}
+
+.el
+{
+
+    margin: 3px;
     height: 50px;
     width: 50px;
     background-color: #00ffff;
