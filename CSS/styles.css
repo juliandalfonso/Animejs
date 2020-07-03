@@ -1,20 +1,13 @@
-body
-{
-    background-color: #555;
-}
+.main {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    text-align: center;
 
-/*
-.css-selector-demo
-{
-    margin: 300px;
-    padding: 20px;
-
-}
-*/
-.el
-{
-    margin-top: 200px;
-    height: 50px;
-    width: 50px;
-    background-color: #00ffff;
-}
+  }
+  
+  .battery-log {
+    font-size: 2rem;
+    color: #2c3e50;
+  }
